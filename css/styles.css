@@ -57,3 +57,7 @@ span img {
   background-color: #ddd;
   color: black;
 }
+
+.proj-title h1 {
+  font-size: 24px;
+}

@@ -11,7 +11,7 @@ _Website made to display my (Holden Clark) portfolio._
 ## Setup/Installation Requirements
 
 * _Clone this repository_
-* _Open "restaurants.html" in your web browser of choice_
+* _Open "index.html" in your web browser of choice_
 
 
 ## Support and contact details
